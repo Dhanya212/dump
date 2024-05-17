@@ -61,7 +61,7 @@ footer {
 }
 #contact{
     border: black solid 2px;
-    border-radius: 10px 20px 10px 20px;
+    border-radius: 10px 20px ;
     box-sizing: content-box;
-    border-style: double;
+    border-style:line;
 }
